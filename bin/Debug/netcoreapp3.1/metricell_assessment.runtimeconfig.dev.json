@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jqgas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jqgas\\.nuget\\packages"
+    ]
+  }
+}
